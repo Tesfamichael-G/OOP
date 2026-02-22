@@ -25,30 +25,6 @@ Upon completion, students will be able to:
 
 ---
 
-## 📁 Repository Structure
-.
-├── slides/
-│   ├── 01-introduction-to-java/
-│   ├── 02-basic-programming-constructs/
-│   ├── 03-arrays-and-methods/
-│   ├── 04-classes-and-objects/
-│   ├── 05-static-and-final/
-│   ├── 06-oop-concepts/
-│   ├── 07-inheritance-and-polymorphism/
-│   ├── 08-interfaces-and-abstract-classes/
-│   ├── 09-packages/
-│   ├── 10-gui-programming-swing/
-│   ├── 11-exception-handling/
-│   ├── 12-java-generics/
-│   ├── 13-io-and-parsing/
-│   ├── 14-networking/
-│   ├── 15-web-development-jsp/
-│   └── 16-jdbc-database-programming/
-├── labs/
-├── assignments/
-├── projects/
-└── resources/
-
 ---
 
 ## 🗂️ Course Contents
@@ -105,6 +81,15 @@ Upon completion, students will be able to:
 - *Java 2: The Complete Reference* — Herbert Schildt
 - *Core Java Volume I: Fundamentals* — Cay S. Horstmann & Gary Cornell
 
+👨‍🏫 Teaching & Learning Methods
+Lectures
+Tutorials
+Laboratory exercises
+Assignments
+Semester project
+🤝 Contributing
+This repository is maintained by the Department of Electrical and Computer Engineering, Jigjiga University. For corrections or suggestions, please open an issue or submit a pull request.
+
 ---
 
 ## 🚀 Getting Started
@@ -121,11 +106,3 @@ Upon completion, students will be able to:
 git clone https://github.com/[username]/ECEG-3162-OOP.git
 cd ECEG-3162-OOP
 
-👨‍🏫 Teaching & Learning Methods
-Lectures
-Tutorials
-Laboratory exercises
-Assignments
-Semester project
-🤝 Contributing
-This repository is maintained by the Department of Electrical and Computer Engineering, Jigjiga University. For corrections or suggestions, please open an issue or submit a pull request.
