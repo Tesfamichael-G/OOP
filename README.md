@@ -100,4 +100,4 @@ This repository is maintained by the Department of Electrical and Computer Engin
   - [IntelliJ IDEA](https://www.jetbrains.com/idea/) (Community Edition)
   - [Eclipse](https://www.eclipse.org/)
   - [NetBeans](https://netbeans.apache.org/)
-  - [vscode] (https://code.visualstudio.com/)
+  - [vscode](https://code.visualstudio.com/)
