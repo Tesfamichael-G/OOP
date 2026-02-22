@@ -100,9 +100,4 @@ This repository is maintained by the Department of Electrical and Computer Engin
   - [IntelliJ IDEA](https://www.jetbrains.com/idea/) (Community Edition)
   - [Eclipse](https://www.eclipse.org/)
   - [NetBeans](https://netbeans.apache.org/)
-
-### Clone Repository
-```bash
-git clone https://github.com/[username]/ECEG-3162-OOP.git
-cd ECEG-3162-OOP
-
+  - [vscode] (https://code.visualstudio.com/)
